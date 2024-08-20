@@ -6,3 +6,5 @@ I hope to learn more abou t digital archaeology to determin if I am interested i
 HFH: m4rlow
 
 GH: ToeJammm
+
+public ssh key: SHA256:MVNVZEWkZ0JtLdPkE+GllyEVKoET+vy6+fwX7o5+Apk
