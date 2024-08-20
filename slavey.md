@@ -1,0 +1,9 @@
+### Info
+My name is Samuel LaVey and I am a senior at the University of Tennessee, Knoxville. I have a background in statistical computation, data analysis, system administration
+AI/ML, and computer networking. I would like to know more about digital archaelogy for the purposes of digital forensics.
+
+hfh: slavey
+gh: metanoia22
+ssh pubkey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCyI8eH8zy6FQqBHkZIqdA0jQ7Hu1h6zdL66Jh83HtJ/FSsFyOzlWPqgh/zdY5iEQHFw4KdIRY5F6l03RCWUxdRArBiGlhmwPLRO/ddsvM0dgoB7n6v7OGAdHB/cNbFwnb8z7OVjVm7rsAaAXSBYN5BsyPtQCgYPtRUOo6EPNw5HaapNQ7Kd4zUW4gN01ujSYuxGurXGzrMa8l67cW1iD4bLW23sCV9sJ7vHbGxYzkSw3fwhEzf06IA7B9MvgZkVgZnxQix2F5FT4uCg8VGb5/2es08rGAttgdKlQcKsWZQtuDcQPUwiX6GOkmIcjeY/RsN97MvQMkmcIbNemURyIk7OF91v2ZZs1NdrCCCGv75TvGuL5zlX12Dw9qxxdE6T+8s3kadhespKI0R5hV9ZzAQmEPOKYgmh9TOfwz0gKLToJ77bvoS30HK1nTpADLTaCIfBmtuDV7mba/Q1G18U/FUEr84pZr+kJ1qcmAfgslJo/lEyexxEQRNvDcamkDXg2DCqk0tCTfAF8YdpA8AWZH13iMi4dRjGOmRZygd5U1dZp6MbwhRck0zM95wNgaQ9/sEJqzHZUMOu9OT8cmz0z7hX4Wmj+hRdU3DdriSvEaOX6ilOeLeDs+vIg9rLPOSPy3fmvsK+4Ytqv6XUmVSo+HLNlu2wQUTPUNJ450ndFY4dw== samlavey@Sams-MacBook-Air.local
+
+
