@@ -2,5 +2,4 @@ My name is Dillon Frankenstein and I am a senior computer science student workin
 into the topics mentioned in the course description. My passions lie within understanding new topics fully, so this seemed like the perfect course to take. 
 
 hfh: Dillon-Frankenstein
-
 gh: Frank-D-stein
