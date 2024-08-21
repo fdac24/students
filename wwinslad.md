@@ -1,5 +1,5 @@
-*github:* wwinslade \
-*hugging face:* wwinslade
+gh: wwinslade
+hfh: wwinslade
 
 I'm William Winslade. I currently work as a network admin intern at KUB, and am a 4th year CS student at UT. I'm interested in enterprise computer networks, machine learning, and in general backend development as a whole.
 
