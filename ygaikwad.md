@@ -3,6 +3,5 @@ At present, I'm working as a web developer for the Tennessee Reading Research Ce
 I'm also interested in game development as well. 
 From this course I'm interested mainly in how to deal with operational data and the techniques associated with it.
 
-hugging face id: ygaikwad
-
-github id: yashraj-28
+hfh: ygaikwad
+gh: yashraj-28
