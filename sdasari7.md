@@ -3,4 +3,8 @@ I'm Sai Deepika Dasari, a master's student in Computer Science at the University
 In the *Foundations of Digital Archeology* course, I am particularly interested in learning how to work with operational data and the techniques involved in its processing and analysis. Gaining insights into methods for collecting, managing, and interpreting large datasets within a digital archaeology framework will complement my background in AI and data analysis.
 
 hfh: SDeepikaDasari
+<<<<<<< HEAD
 gh: SDeepikaDasari
+=======
+gh: SDeepikaDasari
+>>>>>>> ab1616a614322516f077cbb860bd07ff9848a49c
