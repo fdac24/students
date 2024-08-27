@@ -2,4 +2,5 @@ I am Anna Weis, and I am a first-year master's student studying computer enginee
 I'm interested in learning more about the data science and digital traces in the context of machine learning as well as how to organize and reproduce such data.
 
 hfh: aweis3
-gh: aweis
+
+gh: aweis3
