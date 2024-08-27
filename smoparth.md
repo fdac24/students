@@ -1,7 +1,5 @@
 netid: smoparth
-
-ghid: ShivMoparthy
-
+gh: ShivMoparthy
 hfh: smoparth
 
 Hi ! I am Shivaji Moparthy, a first year Master's student in Computer Science.
