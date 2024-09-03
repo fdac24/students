@@ -1,6 +1,7 @@
 |net|name|gh|hf|
 |-|-|-|-|
 |aking100|AARON KING|aaronpig9|aaronpig9|
+|alecfowl|ALEX FOWLER|grandalexbo|grandalexbo|
 |amarlow6|ANDREW MARLOW|toejammm|m4rlow|
 |amcclu13|ANN MCCLURE|annmcclure|annmcclure|
 |aroman|ANTHONY ROMAN|icedbee |aroman01|
@@ -51,7 +52,7 @@
 |jtayl219|JOSEPH TAYLOR|rileytaylor908|jtayl219|
 |kchmayss|KARIM CHMAYSSANI|karim2403|karimchmay|
 |lhunte21|FORT HUNTER|fortutk|forthunter|
-|lscott32|LOGAN SCOTT|lscott32|lscott32|
+|lscott32|LOGAN SCOTT|logan-scott|lscott32|
 |marifova|MALIKA ARIFOVA|malikaarifova|malikaarifova|
 |mdv623|JOHN HEATH|turnerheath|turnerheath  |
 |mherna21|MARIA HERNANDEZ RIVERO|mariauxher|mariauxi|
