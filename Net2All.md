@@ -46,6 +46,7 @@
 |jchoi38|JASON CHOI|jchoi1|jdc7578|
 |jclar166|JONATHAN CLARK|jondennisclark|jclar166  |
 |jhenley9|JUSTIN HENLEY|hippoblumbus|jhenley9|
+|jkenne60|Jacob Kennedy|BlueNinja420|jkenne60|
 |jkutbay|JOHN KUTBAY|johntk10|jkutbay|
 |jleuciu1|JAYDEN LEUCIUC|jayden-leuciuc|jleuciu1|
 |jmuncy2|JACKSON MUNCY|jmuncy2|jmuncy2|
